@@ -1,2 +1,4 @@
 dbt_project.yml
-
+brew untap dbt-labs/dbt 
+brew tap dbt-labs/dbt-cli 
+brew install dbt
