@@ -8,7 +8,6 @@ projects:
     account-name: "Pomoc "
     account-id: "70471823416086"
     account-host: "nl214.us1.dbt.com"
-    token-name: "cloud-cli-753a"
-    token-value: "dbtu_TY-VB3kHdYX_C3zzZw9shn3_f1sZO_e1t8rDMvXgUu-9bQe8Eo"
+  
 
 
