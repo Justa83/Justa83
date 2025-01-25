@@ -8,4 +8,3 @@ projects:
     account-name: "Pomoc "
     account-id: "70471823416086"
     account-host: "nl214.us1.dbt.com"
-   
