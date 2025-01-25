@@ -1,3 +1,9 @@
+name: 'my_dbt_project'
+version: '1.0'
+profile: 'default'
+source-paths: ["models"]
+target-path: "target"
+clean-targets: ["target"]
 version: "1"
 context:
   active-host: "nl214.us1.dbt.com"
@@ -7,5 +13,6 @@ projects:
     project-id: "70471823418738"
     account-name: "Pomoc "
     account-id: "70471823416086"
+    account-host: "nl214.us1.dbt.com"
     
 
